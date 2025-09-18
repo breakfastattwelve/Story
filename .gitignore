@@ -1,0 +1,29 @@
+# Story Project .gitignore
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets (ถ้ามี)
+secrets.txt
+passwords.txt
+
+# Node modules (ถ้าเพิ่มใน future)
+node_modules/
+
+
